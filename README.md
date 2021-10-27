@@ -1,4 +1,4 @@
-# Transcription of Lecture Submission
+# Video Transcription Submission
 Lecture 14: Non-Linear Classification
 
 ## Group Members
